@@ -1,3 +1,3 @@
-add the file path as text data (J:\Projekte\Rotating Wedge\DataPackages\Series Production\MK2_3)
+add the file path as text data 
 
 choose range of RWs 
